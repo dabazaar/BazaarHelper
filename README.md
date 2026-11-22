@@ -6,7 +6,7 @@
 
 ## 下载
 
-安装包与版本更新在 [Releases](https://github.com/dabazzar/BazzarHelper/releases) 发布。
+安装包与版本更新在 [Releases](https://github.com/dabazaar/BazaarHelper/releases) 发布。
 
 | 平台 | 架构 | 安装包 |
 | --- | --- | --- |
